@@ -1,8 +1,3 @@
-spring:
-  application:
-    name: config
-server:
-  port: 8080
 eureka:
   client:
     serviceUrl:
@@ -10,5 +5,5 @@ eureka:
 env: test
 product:
   name: kang
-  age: 18
+  age: 1800
   
