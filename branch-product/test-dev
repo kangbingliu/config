@@ -1,0 +1,7 @@
+client:
+    serviceUrl:
+      defaultZone: http://localhost:8093/eureka/,http://localhost:8092/eureka/
+      
+product:
+  name:kang
+  age:15
