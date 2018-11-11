@@ -7,9 +7,8 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-env:prod
-env:
-  name:kang
-env:
-  age:18
+env: branch-pro
+kang:
+  name: kang
+  age: 18
   
