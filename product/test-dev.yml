@@ -7,7 +7,6 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-env:dev
 product:
   name:kang
   age:18
