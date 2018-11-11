@@ -7,7 +7,7 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
-env: test
+env: patch-1111
 product:
   name: kang
   age: 18
